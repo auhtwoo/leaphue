@@ -1,9 +1,9 @@
 Forked from oflisback/leaphue updated with increased functionality and personal light setup
--added remaining fingers per hand
--corrected finger detection
--accurate hand logging
--control multiple lights, persistent brightness
--piano key style only
+- added remaining fingers per hand
+- corrected finger detection
+- accurate hand logging
+- control multiple lights, persistent brightness
+- piano key style only, safer controls, color presets
 
 ## Dependencies
 
